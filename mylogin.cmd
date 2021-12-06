@@ -1,0 +1,1 @@
+ mysql_config_editor set --user=<user> --password
